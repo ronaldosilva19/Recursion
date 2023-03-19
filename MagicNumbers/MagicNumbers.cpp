@@ -1,6 +1,8 @@
 //
 // Created by ronal on 3/19/2023.
 // Problem Link description.
+// https://practice.geeksforgeeks.org/problems/magic-numbers3143/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
 #include <bits/stdc++.h>
 using namespace std;
 
